@@ -1,0 +1,18 @@
+{
+    "name": "kulikode/kalkulator",
+    "description": "Package Fungsi Kalkulator Sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Debrian Ruhut Saragih",
+            "email": "debrianruhut.saragih@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KuliKode\\Kalkulator\\": "src/"
+        }
+    }
+}
