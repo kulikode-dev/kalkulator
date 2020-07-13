@@ -1,4 +1,4 @@
-# kalkulator
+# Kalkulator
 Membuat Package Fungsi Kalkulator Sederhana
-# Cara Install
+## Cara Install
 composer require kulikode/kalkulator
