@@ -33,7 +33,7 @@ $hex    = \Kulikode\Kalkulator\AdvanceCalculator::binaryToDecimal($number)
 ```
 ## Support Kulikode-dev
 
-[<img src="https://qph.fs.quoracdn.net/main-qimg-28f57b71e9392c307f1193011b0c43d8" width="128">](https://karyakarsa.com/debrianruhut)
+[<img src="https://api.typedream.com/v0/document/public/7ca75252-2895-4260-b592-d3721a624d54_karyakarsa-logo_png.png" width="128">](https://karyakarsa.com/debrianruhut)
 [<img src="http://trakteer.id/images/mix/navbar-logo-lite.png" width="120">](https://trakteer.id/debrianruhut)
 
 ## License
