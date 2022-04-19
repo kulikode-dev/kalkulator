@@ -31,6 +31,10 @@ $number = rand(10, 100);
 $binary = \Kulikode\Kalkulator\AdvanceCalculator::decimalToBinary($number)
 $hex    = \Kulikode\Kalkulator\AdvanceCalculator::binaryToDecimal($number)
 ```
+## Support Kulikode-dev
+
+[<img src="https://qph.fs.quoracdn.net/main-qimg-28f57b71e9392c307f1193011b0c43d8" width="128">](https://karyakarsa.com/debrianruhut)
+[<img src="http://trakteer.id/images/mix/navbar-logo-lite.png" width="120">](https://trakteer.id/debrianruhut)
 
 ## License
 
