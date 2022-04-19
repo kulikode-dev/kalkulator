@@ -1,6 +1,6 @@
 {
     "name": "kulikode/kalkulator",
-    "description": "Package Fungsi Kalkulator Sederhana",
+    "description": "Simple Calculator",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,5 +14,6 @@
         "psr-4": {
             "KuliKode\\Kalkulator\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
